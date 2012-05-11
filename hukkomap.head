@@ -1,0 +1,14 @@
+\documentclass{jsarticle}
+\usepackage{graphicx}
+\setlength{\topmargin}{-2cm}
+
+
+\begin{document}
+\pagestyle{empty}
+
+\Huge{\gt{釜石復興店舗マップ}} \normalsize
+\hspace{13em} \today 版
+
+\includegraphics[scale=15, bb=10 9 40 35,clip]{map}
+\vspace{1em}\\
+\begin{tabular}{ll}

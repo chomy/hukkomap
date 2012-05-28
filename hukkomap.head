@@ -1,5 +1,5 @@
 \documentclass{jsarticle}
-\usepackage{graphicx}
+\usepackage[dvipdfmx]{graphicx}
 \setlength{\topmargin}{-2cm}
 
 
@@ -9,6 +9,6 @@
 \Huge{\gt{釜石復興店舗マップ}} \normalsize
 \hspace{13em} \today 版
 
-\includegraphics[scale=15, bb=10 9 40 35,clip]{map}
+\includegraphics[scale=1.2, bb=140 60 500 500,clip]{map}
 \vspace{1em}\\
 \begin{tabular}{ll}
